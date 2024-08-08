@@ -7,6 +7,7 @@
 1. **Grant of License**: This project is licensed to you by the owners of NexonCure solely for your internal business purposes. You are not permitted to copy, distribute, modify, publicly display, perform, sublicense, or use this software for any other purposes without prior written permission from the owners.
 
 2. **Restrictions**: You may not:
+
    - Distribute, sublicense, lease, rent, loan, or otherwise make the software available to any third party.
    - Reverse engineer, decompile, or disassemble the software.
    - Remove any proprietary notices or labels on the software.
