@@ -7,7 +7,7 @@ NexonCure is a cutting-edge healthcare web application designed to revolutionize
 - Frontend: Next.js, Tailwind CSS, Shadcn UI
 - Backend: Node.js, Express.js
 - Database: MongoDB
-- Version Control: Git
+- Version Control: Git and Github
 - Design: Figma
 
 ### Features
