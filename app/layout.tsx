@@ -11,8 +11,9 @@ const fontSans = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Nexon Cure",
-  description: "A healthcare portal",
+  title: "NexonCure",
+  description:
+    "It is a cutting-edge healthcare web application designed to revolutionize online consultations with doctors. Users can easily book and attend appointments via voice, video, or text, ensuring timely and efficient communication with healthcare professionals. Our intuitive interface, built with Next.js and styled with Tailwind CSS and Shadcn UI, provides a seamless user experience.",
 };
 
 export default function RootLayout({
